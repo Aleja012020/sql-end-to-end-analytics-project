@@ -1,4 +1,4 @@
- # SQL-Data-Cleaning-And-Exploratory-Data-Analysis
+ # SQL-Data-Cleaning-And-EDA
 
 Welcome to the SQL-Data-Cleaning-And-Exploratory-Data-Analysis repository! 🚀
 
