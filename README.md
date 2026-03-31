@@ -6,19 +6,21 @@ This project demonstrates an end-to-end data analysis workflow using SQL, starti
 
 The objective is to transform unstructured and inconsistent data into a clean, reliable, and analysis-ready dataset, and then leverage SQL techniques to explore patterns, answer key business questions, and support data-driven decision-making.
 
-🧩 Project Structure
+---
+
+# 🧩 Project Structure
 
 This project is divided into four main stages:
 
-1. 🏗️ Data Setup (DDL & Data Loading)
+# 1. 🏗️ Data Setup (DDL & Data Loading)
 
-Creation of database schema using DDL statements
+Creation of a database schema using DDL statements
 
 Table design and data type definition
 
 Initial data loading into the database
 
-2. 🧹 Data Cleaning & Preparation
+# 2. 🧹 Data Cleaning & Preparation
 
 Data validation and standardization
 
@@ -28,7 +30,7 @@ Removing duplicates and correcting data quality issues
 
 Formatting and transforming data for analysis
 
-3. 🔍 Exploratory Data Analysis (EDA)
+# 3. 🔍 Exploratory Data Analysis (EDA)
 
 Initial data exploration and understanding
 
@@ -38,7 +40,7 @@ Aggregations and descriptive analysis
 
 Data profiling to assess data quality and distributions
 
-4. 📈 Business Analysis & Insights
+# 4. 📈 Business Analysis & Insights
 
 Advanced SQL analysis using:
 
@@ -54,9 +56,11 @@ Generating insights to support strategic decisions
 
 Building an analytical data model for reporting
 
-🧪 Key SQL Concepts Applied
+---
 
-This project showcases practical use of:
+# 🧪 Key SQL Concepts Applied
+
+This project showcases the practical use of:
 
 Data Definition Language (DDL)
 
@@ -78,7 +82,9 @@ Date and time functions
 
 Analytical calculations
 
-📊 Analysis Focus
+---
+
+# 📊 Analysis Focus
 
 The analysis aims to:
 
@@ -92,9 +98,10 @@ Generate actionable insights from clean and structured data
 
 These insights help stakeholders track key metrics and make informed business decisions.
 
-👩‍💻 About Me
+---
 
-Hello! I'm Alejandra Garcia
-Business Administrator with a growing focus on data analytics. I’m passionate about transforming data into insights and continuously improving my SQL and analytical skills to build impactful data projects.
+# 👩‍💻 About Me
+
+Hello! I'm **Alejandra Garcia**, Business Administrator with a focus on data analytics. I’m passionate about transforming data into insights and continuously improving my SQL and analytical skills to build impactful data projects.
 
 
