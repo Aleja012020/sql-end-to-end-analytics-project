@@ -1,54 +1,100 @@
- # SQL-Data-Cleaning-And-EDA
+ # SQL End-to-End Data Analytics Project: Data Modeling, Cleaning, EDA & Insights
 
-Welcome to the SQL-Data-Cleaning-And-Exploratory-Data-Analysis repository! 🚀
+Welcome to the SQL Data Cleaning & Exploratory Data Analysis repository! 🚀
 
-This project focuses on data cleaning, exploratory data analysis (EDA), advanced SQL analysis, and building an analytical data model to generate meaningful business insights.
+This project demonstrates an end-to-end data analysis workflow using SQL, starting from raw data ingestion to generating actionable business insights.
 
-The main goal is to transform raw data into a clean, structured, and analysis-ready format using SQL, while answering key business questions through exploratory analysis.
+The objective is to transform unstructured and inconsistent data into a clean, reliable, and analysis-ready dataset, and then leverage SQL techniques to explore patterns, answer key business questions, and support data-driven decision-making.
 
----
+🧩 Project Structure
 
-## 🗂️ Project Scope
+This project is divided into four main stages:
 
-### This project covers the following stages:
+1. 🏗️ Data Setup (DDL & Data Loading)
 
- - Data exploration and understanding
- - Data cleaning and standardization
- - Handling missing, invalid, and inconsistent data
- - Exploratory Data Analysis (EDA)
- - Advanced SQL analysis (joins, CTEs, window functions, aggregations)
- - Analytical data modeling
- - Business insight generation
- - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+Creation of database schema using DDL statements
 
- ---
- ## 🧪 Key SQL Concepts Used
+Table design and data type definition
 
-- Data type conversions
-- NULL handling
-- String cleaning and standardization
-- JOINs (INNER, LEFT)
-- Common Table Expressions (CTEs)
-- Aggregations and grouping
-- Window functions
-- Date functions
-- Analytical calculations
+Initial data loading into the database
 
----
-## 📈 Analysis & Insights
+2. 🧹 Data Cleaning & Preparation
 
-### The analysis focuses on:
+Data validation and standardization
 
-- Identifying data quality issues
-- Understanding customer and sales behavior
-- Detecting patterns and trends
-- Generating actionable business insights from clean data
+Handling missing, null, and inconsistent values
 
-  These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+Removing duplicates and correcting data quality issues
 
-  ---
-## 👩‍💻 About Me 
+Formatting and transforming data for analysis
 
-Hello! I'm **Alejandra Garcia**, a Business Administrator focused on data analytics, working with SQL and Power BI to build analytical projects. 🚀
+3. 🔍 Exploratory Data Analysis (EDA)
+
+Initial data exploration and understanding
+
+Identifying trends, patterns, and anomalies
+
+Aggregations and descriptive analysis
+
+Data profiling to assess data quality and distributions
+
+4. 📈 Business Analysis & Insights
+
+Advanced SQL analysis using:
+
+JOINs
+
+Common Table Expressions (CTEs)
+
+Window functions
+
+Answering key business questions
+
+Generating insights to support strategic decisions
+
+Building an analytical data model for reporting
+
+🧪 Key SQL Concepts Applied
+
+This project showcases practical use of:
+
+Data Definition Language (DDL)
+
+Data type conversions
+
+NULL handling techniques
+
+String cleaning and normalization
+
+JOIN operations (INNER, LEFT, etc.)
+
+Common Table Expressions (CTEs)
+
+Aggregations and GROUP BY
+
+Window functions
+
+Date and time functions
+
+Analytical calculations
+
+📊 Analysis Focus
+
+The analysis aims to:
+
+Identify and resolve data quality issues
+
+Understand customer behavior and business performance
+
+Detect trends and meaningful patterns
+
+Generate actionable insights from clean and structured data
+
+These insights help stakeholders track key metrics and make informed business decisions.
+
+👩‍💻 About Me
+
+Hello! I'm Alejandra Garcia
+Business Administrator with a growing focus on data analytics. I’m passionate about transforming data into insights and continuously improving my SQL and analytical skills to build impactful data projects.
 
 
