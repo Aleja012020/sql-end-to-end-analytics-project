@@ -12,7 +12,7 @@ The objective is to transform unstructured and inconsistent data into a clean, r
 
 This project is divided into four main stages:
 
-# 1. 🏗️ Data Setup (DDL & Data Loading)
+# 1.  Data Setup (DDL & Data Loading)
 
 Creation of a database schema using DDL statements
 
@@ -20,7 +20,7 @@ Table design and data type definition
 
 Initial data loading into the database
 
-# 2. 🧹 Data Cleaning & Preparation
+# 2. Data Cleaning & Preparation
 
 Data validation and standardization
 
@@ -30,7 +30,7 @@ Removing duplicates and correcting data quality issues
 
 Formatting and transforming data for analysis
 
-# 3. 🔍 Exploratory Data Analysis (EDA)
+# 3. Exploratory Data Analysis (EDA)
 
 Initial data exploration and understanding
 
@@ -40,7 +40,7 @@ Aggregations and descriptive analysis
 
 Data profiling to assess data quality and distributions
 
-# 4. 📈 Business Analysis & Insights
+# 4. Business Analysis & Insights
 
 Advanced SQL analysis using:
 
@@ -58,7 +58,7 @@ Building an analytical data model for reporting
 
 ---
 
-# 🧪 Key SQL Concepts Applied
+# Key SQL Concepts Applied
 
 This project showcases the practical use of:
 
